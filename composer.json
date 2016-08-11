@@ -1,0 +1,25 @@
+{
+  "name": "initbizlab/laravel-przelewy24",
+  "type": "library",
+  "description": "A Laravel 5 library for Przelewy24 as a Service Provider",
+  "keywords": [
+    "payment"
+  ],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "InIT.biz Ltd.",
+      "email": "developers@init.biz",
+      "homepage": "http://init.biz"
+    }
+  ],
+  "require": {
+    "php": ">=5.4.0|^7.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Initbizlab\\Przelewy24\\": "src/"
+    }
+  },
+  "minimum-stability": "dev"
+}
