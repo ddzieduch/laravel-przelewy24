@@ -1,6 +1,6 @@
 <?php
 
-namespace Initbizltd\Przelewy24\Facades;
+namespace Initbizlab\Przelewy24\Facades;
 
 use Illuminate\Support\Facades\Facade;
 
